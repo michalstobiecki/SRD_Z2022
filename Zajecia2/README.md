@@ -15,4 +15,4 @@
 
 :movie_camera: Lectures from Robert Tibshirani and Trevor Hastie based on _An Introduction to Statistical Learning_ (Chapter 4)
 
-[In-depth introduction to machine learning in 15 hours of expert videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+[In-depth introduction to machine learning in 15 hours of expert videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
