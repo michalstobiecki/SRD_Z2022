@@ -13,7 +13,7 @@ Celem konkursu jest uzyskanie jak największego **accuracy** (procent poprawnie 
 ### Wyniki
 Wyniki należy przesłać na adres **lkrain@sgh.waw.pl** do końca zajęć danej grupy. W treści maila należy podać nazwę grupy oraz imiona i nazwiska członków - wystarczy mail od jednego członka grupy. Jako załączniki należy zamieścić:
 1. Skrypt R/Python/Julia ze wykorzystanym kodem
-2. Plik CSV o nazwie **[nazwa_grupy]_IPA_prediction.csv** zawierający jedną kolumnę z 5000 obserwacji (i opcjonalnym nagłówkiem) z wartościami 1/0 lub TRUE/FALSE oznaczających predykcję dla kolejnych wierszy ze zbioru testowego **IPA_test.csv**.
+2. Plik CSV o nazwie **[nazwa_grupy]_IPA_prediction.csv** zawierający jedną kolumnę z 5000 predykcjami dla kolejnych wierszy ze zbioru testowego **IPA_test.csv**. Nagłówek jest opcjonalny, predykcje powinny przyjmować wartości 1/0 lub TRUE/FALSE.
 
 Proszę dokładnie sprawdzić czy kolejność predykcji zgadza się z kolejnością obserwacji w zbiorze testowym.
 
