@@ -20,3 +20,35 @@ Proszę dokładnie sprawdzić czy kolejność predykcji zgadza się z kolejnośc
 Tabela z rankingiem zespołów pojawi się na GitHubie w poniższym pliku README. Najlepszy zespół w każdej grupie zajęciowej otrzyma dodatkowe 5 punktów, kolejny 4 punkty, itd.
 
 Życzę powodzenia. 
+
+### Wyniki konkursu
+
+Grupa 11
+| **Zespół**     | **Accuracy** | **Punkty** | **Język** | **Model**                  |
+|----------------|--------------|------------|-----------|----------------------------|
+| XDBoost        | 87,36        | 5          | Python    | XGBoost                    |
+| WKS            | 86,9         | 4          | Python    | XGBoost                    |
+| MMMM           | 86,64        | 3          | Python    | GradientBoostingClassifier |
+| Ankara Messi   | 86,58        | 2          | Python    | RandomForestClassifier     |
+| Ostatnia Grupa | 86,16        | 1          | Python    | DecisionTreeClassifier     |
+| MAK            | 83,62        | 0          | Python    | LogisticRegression         |
+
+Grupa 13
+| **Zespół** | **Accuracy** | **Punkty** | **Język** | **Model**                      |
+|------------|--------------|------------|-----------|--------------------------------|
+| Leo Miesi  | 86,94        | 5          | Python    | HistGradientBoostingClassifier |
+| ACA        | 86,94        | 5          | Python    | XGBoost                        |
+| Trojaczki  | 86,92        | 4          | Python    | XGBoost                        |
+| AJJ        | 86,88        | 3          | Python    | XGBoost                        |
+| m_kwadrat  | 86,44        | 2          | Python    | GradientBoostingRegressor      |
+| Kobra      | 86,15        | 1          | Python    | DecisionTreeClassifier         |
+| Kh7        | 85,84        | 0          | Python    | XGBoost                        |
+
+Grupa 15
+| **Zespół**                                           | **Accuracy** | **Punkty** | **Język** | **Model**                  |
+|------------------------------------------------------|--------------|------------|-----------|----------------------------|
+| MLWizards                                            | 87,06        | 5          | Python    | LGBMClassifier             |
+| Decision Trees Or The Unexpected Virtue Of Ignorance | 86,18        | 4          | Python    | DecisionTreeRegressor      |
+| Konwektor                                            | 85,82        | 3          | Python    | DecisionTreeRegressor      |
+| SRD Super Przedmiot                                  | 85,57        | 2          | Python    | GradientBoostingClassifier |
+| Pacjoh                                               | 85,08        | 1          | Python    | SVC                        |
